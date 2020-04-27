@@ -12,7 +12,6 @@
 4. ### Restricciones  
   * *Ninguna*  
 5. ### Tareas  
-  * *Solicitar inscripción al Grupo Yahoo, la aprobación demora un par de días*  
   * *Si no posee una cuenta GitHub, crearla*  
   * *Crear un repositorio público llamado AED*  
   * *Escribir el archivo readme.md que actúa como front page del repositorio personal*  
@@ -23,3 +22,5 @@
   * *Probar el compilador con un programa hello.cpp que envíe a cout la línea Hello, World! o similar*  
   * *Ejecutar el programa, y capturar su salida en un archivo output.txt*  
   * *Publicar en el repositorio personal AED la carpeta 00-CppHelloWorld con readme.md, hello.cpp, y output.txt*  
+  
+### Compilador usado: Code Blocks
