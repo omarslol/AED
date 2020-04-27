@@ -2,9 +2,11 @@
 ◦ Usuario github: omarslol  
 ◦ Legajo: 1558171  
 ◦ Apellido: Rosales  
-◦ Nombre: Omar    
+◦ Nombre: Omar  
 
-### * Trabajo: 01-Adición  
+## * Trabajo: 01-Adición  
+  * Problema:  
+    * Obtener del usuario dos numeros y mostrarle la suma  
   * Etapa #1: Análisis del problema:  
     * Transcripción del problema  
     * Refinamiento del problema e Hipótesis de trabajo  
