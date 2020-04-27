@@ -13,7 +13,7 @@
     * Léxico del Algoritmo  
     * Representación del Algoritmo:  
       * Representación visual:  
-        ![adicion](https://github.com/omarslol/AED/blob/master/Imagenes/HolaMundo/Adicion.png)
+        ![adicion](https://github.com/omarslol/AED/blob/master/Imagenes/Adicion/Adicion.png)
       * Representación textual:  
       ~~~
       Leer Entero a,b,r;
