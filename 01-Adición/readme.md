@@ -12,5 +12,18 @@
   * Etapa #2 Diseño de la Solución:  
     * Léxico del Algoritmo  
     * Representación del Algoritmo:  
-      * Representación visual  
-      * Representación textual
+      * Representación visual 
+      ![adicion](https://github.com/omarslol/AED/blob/master/Imagenes/HolaMundo/Adicion.png)
+      * Representación textual  
+  Leer Entero a,b,r;
+  Escribir "******Suma de Numeros Enteros******";
+  Escribir "Ingrese un numero entero: ";
+  Leer a;
+  Escribir "Ingrese otro numero entero: ";
+  Leer b;
+  r<-(a+b);
+  Escribir "El resultado de la suma es: " r;
+  //otra forma
+  Escribir "El resultado de la suma es: " a+b;
+
+## Compilador usados: Code Blocks y PSeInt
