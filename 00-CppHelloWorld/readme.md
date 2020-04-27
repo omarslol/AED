@@ -1,17 +1,17 @@
 ## "Hello, World!" en C++  
-1. Objectivos  
+1. ### Objectivos  
   * *Demostrar con, un programa simple, que se está en capacidad de editar, compilar, y ejecutar un programa C++*  
   * *Contar con las herramientas necesarias para abordar la resolución de los trabajos posteriores*  
-2. Temas  
+2. ### Temas  
   * *Sistema de control de versiones*  
   * *Lenguaje de programación C++*  
   * *Proceso de compilación*  
   * *Pruebas*  
-3. Problema  
+3. ### Problema  
   * *Adquirir y preparar los recursos necesarias para resolver los trabajos del curso*  
-4. Restricciones  
+4. ### Restricciones  
   * *Ninguna*  
-5. Tareas  
+5. ### Tareas  
   * *Solicitar inscripción al Grupo Yahoo, la aprobación demora un par de días*  
   * *Si no posee una cuenta GitHub, crearla*  
   * *Crear un repositorio público llamado AED*  
