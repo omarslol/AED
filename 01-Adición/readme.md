@@ -5,18 +5,15 @@
 ◦ Nombre: Omar  
 
 ## * Trabajo: 01-Adición  
-  * Problema:  
-    * Obtener del usuario dos numeros y mostrarle la suma  
   * Etapa #1: Análisis del problema:  
-    * Transcripción del problema  
-    * Refinamiento del problema e Hipótesis de trabajo  
-    * Modelo IPO  
-  * Etapa #2 Diseño de la Solución:  
-    * Léxico del Algoritmo  
-    * Representación del Algoritmo:  
-      * Representación visual:  
+    * Problema:  
+      * Obtener del usuario dos numeros y mostrarle la suma  
+    * Hipotesis:  
+      * Pedir por pantalla al usuario que ingrese dos numeros enteros por teclado y mostrar en la pantalla el resultado de la suma de los dos valores  
+  * Etapa #2 Diseño de la Solución   
+    * Representación visual:  
         ![adicion](https://github.com/omarslol/AED/blob/master/Imagenes/Adicion/Adicion.png)
-      * Representación textual:  
+    * Representación textual:  
       ~~~
       Leer Entero a,b,r;
       Escribir "******Suma de Numeros Enteros******";
