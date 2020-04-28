@@ -1,3 +1,12 @@
+/*
+Adición.cpp
+Suma de dos numeros enteros
+Omar Rosales
+20200428
+*/
+
+
+
 #include <iostream>
 
 using namespace std;
