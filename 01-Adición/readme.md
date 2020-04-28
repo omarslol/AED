@@ -10,7 +10,18 @@
       * Obtener del usuario dos numeros y mostrarle la suma  
     * Hipotesis:  
       * Pedir por pantalla al usuario que ingrese dos numeros enteros por teclado y mostrar en la pantalla el resultado de la suma de los dos valores  
+    * Modelo IPO:  
+    ~~~
+      Entrada:  
+        a Entero  
+        b Entero  
+      Proceso:  
+        r Suma de los Enteros  
+      Salidad:  
+        r Entero  
+    ~~~
   * Etapa #2 Diseño de la Solución   
+    * Lenguaje C++  
     * Representación visual:  
         ![adicion](https://github.com/omarslol/AED/blob/master/Imagenes/Adicion/Adicion.png)
     * Representación textual:  
