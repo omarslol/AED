@@ -30,8 +30,8 @@ bool IsBisiesto (int anio);
 *  ###  Definición:  
 ~~~
 bool  IsBisiesto(int anio){
-  assert(anio>=1582 && (anio%4==0 && (anio%100!=0 || anio%400==0)));
+  assert (anio>=1582 && anio%4==0 && (anio%100!=0 || anio%400==0));
 }
 ~~~
 *  ###  Arbol de expresión asociado a la expresión de retorno de la función  
-
+  ![Arbol](https://github.com/omarslol/AED/blob/master/Imagenes/Arbol/Arbol.png)
