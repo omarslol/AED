@@ -11,16 +11,16 @@
   Dado un año, determinar si es bisiesto  
 *  ### Lexico:  
 ~~~
-                          {  anio si  anio ≥ 1582  ^  anio%4 = 0  ^  ( anio%100 ≠ 0  v  anio%400 = 0 )
+                          {  1 si  anio ≥ 1582  ^  anio%4 = 0  ^  ( anio%100 ≠ 0  v  anio%400 = 0 )
 IsBisiesto(anio)= |anio|
-                          { -anio si  anio ≤ 1582  v  anio%4 ≠ 0  v  ( anio%100 = 0  ^  anio%400 ≠ 0 ) 
+                          {  0 si  anio ≤ 1582  v  anio%4 ≠ 0  v  ( anio%100 = 0  ^  anio%400 ≠ 0 ) 
 ~~~     
 *  ###  Pruebas:  
 ~~~ 
-IsBisiesto(2020);  //true
-IsBisiesto(1584);  //true
-IsBisiesto(1582);  //false
-IsBisiesto(2002);  //false 
+assert(IsBisiesto(2020));  //true
+assert(IsBisiesto(1584));  //true
+assert(IsBisiesto(1582));  //false
+assert(IsBisiesto(2002));  //false 
 ~~~  
   
 *  ###  Prototipo:  
@@ -30,7 +30,7 @@ bool IsBisiesto (int anio);
 *  ###  Definición:  
 ~~~
 bool  IsBisiesto(int anio){
-  assert (anio>=1582 && anio%4==0 && (anio%100!=0 || anio%400==0));
+  anio>=1582 && anio%4==0 && (anio%100!=0 || anio%400==0);
 }
 ~~~
 *  ###  Arbol de expresión asociado a la expresión de retorno de la función  
