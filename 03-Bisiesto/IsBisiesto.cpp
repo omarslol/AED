@@ -8,7 +8,7 @@ Omar Rosales
 #include <iostream>
 #include <cassert>
 
-bool IsBisiesto (int anio);
+bool IsBisiesto (int);
 
 int main()
 {
