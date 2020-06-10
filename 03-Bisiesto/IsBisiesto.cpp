@@ -6,7 +6,7 @@ Omar Rosales
 * /
 
 #include <iostream>
-#include <cassert.h>
+#include <cassert>
 
 bool IsBisiesto (int anio);
 
