@@ -11,6 +11,7 @@
   Dado un año, determinar si es bisiesto  
 *  ### Lexico:  
 ~~~
+IsBisiesto: Z -> Z
                           {  1 si  anio ≥ 1582  ^  anio%4 = 0  ^  ( anio%100 ≠ 0  v  anio%400 = 0 )
 IsBisiesto(anio)= |anio|
                           {  0 si  anio ≤ 1582  v  anio%4 ≠ 0  v  ( anio%100 = 0  ^  anio%400 ≠ 0 ) 
